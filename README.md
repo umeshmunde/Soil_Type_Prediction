@@ -1,7 +1,5 @@
 # Project Implementation Details: Soil Type Prediction
 
-**Course Project - Third Year B.Tech (Computer Science & Engineering / Information Technology)**
-**Title**: Soil Type Prediction Using Machine Learning and Deep Learning Models
 
 ---
 
